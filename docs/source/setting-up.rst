@@ -1,6 +1,5 @@
-STARTING THE APPLICATION
+Starting the application
 =========================
-
 You connect to the application using the following address:
 
 `https://insight.eofactory.ai <https://insight.eofactory.ai>`_
@@ -14,9 +13,9 @@ On the entry screen, click the « Get Started » button to log in the system. In
 .. image:: ./images/setting_up/starting_application_2.png
     :align: center
 
-WORKING WITH WORKSPACES
-=======================
 
+Working with workspaces
+=======================
 After you have successfully logged in, the application presents available workspaces you are per-mitted to work with.
 
 -	Workspaces are spaces on the EOf Insight’s cloud provided to users for storing their work including datasets, charts, dashboards…
@@ -44,8 +43,8 @@ You can access the workspace by clicking the box. The « Datasource » screen op
 .. image:: ./images/setting_up/working_with_workspaces_4.png
     :align: center
 
-LOGGING OUT
-===========
 
+Logging out
+===========
 Any time you want to exit the application, click the « Logout »  ?? button on the top-right corner. Then, the working session stops and makes you return to the entry screen.
 

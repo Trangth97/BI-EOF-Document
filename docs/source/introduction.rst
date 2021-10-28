@@ -1,9 +1,9 @@
-BRIEF DESCRIPTION
+Brief description
 =================
 
 EOFactory Insight Studio is a platform to create analytic tools on top of remote sensing images and data. The solution is built as an advanced analytics system, which supports user-friendly inter-face and drag-drop operations instead of complicated coding for usage. The purpose of this appli-cation is to provide a powerful environment for analysts to work on remote sensing data.
 
-DESCRIPTIVE ICONS
+Description icons
 =================
 The application uses the following icons to represent actions.
 
@@ -14,6 +14,7 @@ The application uses the following icons to represent actions.
    * - Icon
      - Description 
    * -  .. image:: ./icons/logout.png
+            :width: 32
      - Logout the application
    * -  .. image:: ./icons/edit_element.png
      - Edit an element
@@ -26,6 +27,7 @@ The application uses the following icons to represent actions.
    * -  .. image:: ./icons/share.png
      - Share a dashboard
    * -  .. image:: ./icons/select_area.png
+          :width: 32
      - Select an area by specifying Longitude and Latitude
    * -  .. image:: ./icons/draw_aoi.png
      - Draw AOI
@@ -52,8 +54,10 @@ The application uses the following icons to represent actions.
    * -  .. image:: ./icons/save_element.png
      - Save an element
    * -  .. image:: ./icons/run_dashboard.png
+            :width: 32
      - Run dashboard
    * -  .. image:: ./icons/stop_run_dashboard.png
+            :width: 32
      - Stop running dashboard
    * -  .. image:: ./icons/add_color.png
      - Add color

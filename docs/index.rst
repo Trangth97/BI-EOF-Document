@@ -1,4 +1,4 @@
-Welcome to Lumache's documentation!
+EOF INSIGHT STUDIO USER MANUAL 
 ===================================
 
 .. toctree::
@@ -74,6 +74,31 @@ Welcome to Lumache's documentation!
    :caption: Color Setting
 
    source/color_setting/color-setting-for-geometry-chart
+
+
+Document type:
+
+.. |uncheck| raw:: html
+
+    <input type="checkbox">
+
+.. |check| raw:: html
+
+    <input checked=""  type="checkbox">
+
+|check| draft
+
+|uncheck| to be validated
+
+|uncheck| validated
+
+
+**Purpose of the document**
+
+The purpose of this document is to describe the appli-cation supplied to the user
+
+.. image:: ./source/images/background.png
+    :align: center
 
 
 

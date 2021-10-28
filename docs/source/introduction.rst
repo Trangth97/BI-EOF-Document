@@ -14,7 +14,6 @@ The application uses the following icons to represent actions.
    * - Icon
      - Description 
    * -  .. image:: ./icons/logout.png
-            :width: 32
      - Logout the application
    * -  .. image:: ./icons/edit_element.png
      - Edit an element
@@ -27,7 +26,6 @@ The application uses the following icons to represent actions.
    * -  .. image:: ./icons/share.png
      - Share a dashboard
    * -  .. image:: ./icons/select_area.png
-          :width: 32
      - Select an area by specifying Longitude and Latitude
    * -  .. image:: ./icons/draw_aoi.png
      - Draw AOI

@@ -1,3 +1,12 @@
+.. |delete| image:: ../icons/delete_element.png
+
+.. |edit| image:: ../icons/edit_element.png
+
+.. |tick| image:: ../icons/tick.png
+
+.. |save| image:: ../icons/save_element.png
+            :width: 28
+
 This function allows to create and manage dashboards, which contain one or more charts to sup-port the analysis work in an interactive way.
 Clicking on the « Dashboard » menu, you open the main screen of the Dashboard function.
 
@@ -86,7 +95,7 @@ Click the « + » mark on the heading of the tab component to create a new tab. 
 .. image:: ../images/dashboard/blank_template_11.png
     :align: center
 
-You can remove a tab component by clicking the Delete ??  button in the top-right corner of the component. You can also remove a column or a row by clicking the Delete ??  button on the top edge of the column or on the left edge of the row.
+You can remove a tab component by clicking the Delete |delete| button in the top-right corner of the component. You can also remove a column or a row by clicking the Delete |delete| button on the top edge of the column or on the left edge of the row.
 
 By this way, you can design the layout that fit your requirement.
 
@@ -108,7 +117,7 @@ After dropping a chart, it is docked on an edge of the cell.
 .. image:: ../images/dashboard/add_chart_3.png
     :align: center
 
-You can edit the dashboard’s title by clicking on the ?? button beside the title textbox. You type a new title and click the ??  button to save it.
+You can edit the dashboard’s title by clicking on the |edit| button beside the title textbox. You type a new title and click the |tick| button to save it.
 
 .. image:: ../images/dashboard/add_chart_4.png
     :align: center
@@ -118,5 +127,5 @@ You can change the size of the chart by dragging its bottom-right conner to a po
 .. image:: ../images/dashboard/add_chart_5.png
     :align: center
 
-You can click the ??  button on the upper-right conner of the chart to remove it from the dash-board.
-Finally, you click the ??  button to save the dashboard.
+You can click the |delete| button on the upper-right conner of the chart to remove it from the dash-board.
+Finally, you click the |save| button to save the dashboard.

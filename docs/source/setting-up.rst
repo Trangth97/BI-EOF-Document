@@ -46,5 +46,8 @@ You can access the workspace by clicking the box. The « Datasource » screen op
 
 Logging out
 ===========
-Any time you want to exit the application, click the « Logout »  ?? button on the top-right corner. Then, the working session stops and makes you return to the entry screen.
+Any time you want to exit the application, click the « Logout » |logout| button on the top-right corner. Then, the working session stops and makes you return to the entry screen.
+
+.. |logout| image:: ./icons/logout.png
+
 

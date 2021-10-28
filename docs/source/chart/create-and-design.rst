@@ -1,3 +1,5 @@
+.. |design_chart| image:: ../icons/design_chart.png
+
 This function allows to create, design and manage analytic charts.
 You can clicking the « Chart » menu to open the main screen of the Chart function. It allows to create new analytic charts and manage available ones.
 
@@ -136,7 +138,7 @@ In this dataset, you need to create a metric named « ndiv ». Click the « Add 
 
 Return to the « New Chart » form. You click the « Create » button to save the chart. It is then added to the list of available charts.
 
-To design the chart, you click the « Design Chart » ??  button on its row. The following form opens.
+To design the chart, you click the « Design Chart » |design_chart| button on its row. The following form opens.
 
 .. image:: ../images/chart/create_optical_4.png
     :align: center

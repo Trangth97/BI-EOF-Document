@@ -65,7 +65,7 @@ if not 'READTHEDOCS' in os.environ:
         range(1, 100)
     ))
 
-html_logo = "demo/static/logo-wordmark-light.svg"
+# html_logo = "demo/static/logo-wordmark-light.svg"
 html_show_sourcelink = True
 
 htmlhelp_basename = slug

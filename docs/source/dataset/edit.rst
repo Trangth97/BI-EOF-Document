@@ -2,7 +2,7 @@
 
 .. |select| image:: ../icons/select_area.png
 
-.. |darw_aoi| image:: ../icons/draw_aoi.png
+.. |draw_aoi| image:: ../icons/draw_aoi.png
 
 .. |upload_aoi| image:: ../icons/upload.png
 

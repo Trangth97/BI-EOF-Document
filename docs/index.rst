@@ -38,7 +38,7 @@ EOF INSIGHT STUDIO USER MANUAL
    :hidden:
    :caption: Chart
    
-   source/chart/create-and-design
+   source/chart/create
    source/chart/edit
    source/chart/delete
 

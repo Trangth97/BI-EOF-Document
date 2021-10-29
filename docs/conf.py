@@ -15,7 +15,7 @@ from sphinx_rtd_theme import __version__ as theme_version
 from sphinx_rtd_theme import __version_full__ as theme_version_full
 from sphinx.locale import _
 
-project = u'BI-EOF Document'
+project = u'EOF Insight Studio User Manual'
 slug = re.sub(r'\W+', '-', project.lower())
 version = theme_version
 release = theme_version_full

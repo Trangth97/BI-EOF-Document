@@ -1,12 +1,12 @@
-.. |edit| image:: ../icons/edit_dataset.png
+.. |edit_dataset| image:: ../icons/edit_dataset.png
 
 .. |select| image:: ../icons/select_area.png
 
-.. |darw| image:: ../icons/draw_aoi.png
+.. |darw_aoi| image:: ../icons/draw_aoi.png
 
-.. |upload| image:: ../icons/upload.png
+.. |upload_aoi| image:: ../icons/upload.png
 
-.. |download| image:: ../icons/download.png
+.. |download_aoi| image:: ../icons/download.png
 
 .. |geocoding| image:: ../icons/geocoding.png
 
@@ -21,7 +21,7 @@
 Editing Dataset
 ===============
 
-To update a dataset’s parameters, you can click the « Edit Dataset Property » |edit| button. The da-taset editing form opens allowing to make changes.
+To update a dataset’s parameters, you can click the « Edit Dataset Property » |edit_dataset| button. The da-taset editing form opens allowing to make changes.
 
 .. image:: ../images/dataset/edit_dataset_1.png
     :align: center
@@ -63,9 +63,9 @@ You select the area of interest (AOI) by specifying Longitude and Latitude: Clic
 
 On the AOI Selector, you have multiple ways to select an area:
 
--	Drawing an AOI : by clicking on the « Draw AOI » |draw| button.
+-	Drawing an AOI : by clicking on the « Draw AOI » |draw_aoi| button.
 -	Using Geocoding : by clicking on the « Geocoding » |geocoding| button.
--	Uploading an AOI file : by clicking on the « Uploading » |upload| button.
+-	Uploading an AOI file : by clicking on the « Uploading » |upload_aoi| button.
 
 To draw an AOI, click the « Draw AOI » button. The drawing tools display, providing multiple ways to draw:
 -	Draw rectangle, by clicking on the « Draw Rectangle » |draw_rectangle| button.
@@ -86,7 +86,7 @@ When drawing finishes, the AOI is fixed:
 .. image:: ../images/dataset/edit_dataset_7.png
     :align: center
 
-Once an AOI is selected, you can click the « Download AOI » |download| button to save it as a file in the local disk. On the downloading form, you can select one of the following formats: geojson, gpx, kml, shapefile, csv, gml, wkt.
+Once an AOI is selected, you can click the « Download AOI » |download_aoi| button to save it as a file in the local disk. On the downloading form, you can select one of the following formats: geojson, gpx, kml, shapefile, csv, gml, wkt.
 In the example of the below screenshot, a file named « Sirsa.geojson » will be saved on the local disk.
 
 .. image:: ../images/dataset/edit_dataset_8.png
